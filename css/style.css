@@ -1,0 +1,12 @@
+header {
+    border: 2px solid black; 
+} 
+body {
+    background-image: url("http://www.rsdesign.com.br/wp-content/uploads/2014/06/mesa-escritorio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    margin: 40px;
+}
